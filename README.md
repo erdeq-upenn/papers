@@ -1,5 +1,8 @@
-# papers
- This is a directory of recent reviewed papers 
+## papers
+This is a directory of recent reviewed papers.  
+
+Part of the following contents is refered to: [this repo](github.com/mli/paper-reading)
+
 ### 优化算法
 
 | 已录制 | 年份 | 名字                                                         | 简介                 | 引用 |
