@@ -12,7 +12,7 @@ HAI, Human-Centered Artificaial Intelligence
 * global AI legislation 
 * robotics are cheaper 
 
-[!Tech growth](https://i.stack.imgur.com/JjQzf.png)
+[!img Tech growth](https://i.stack.imgur.com/JjQzf.png)
 
 ## Publications 
 * recently almost linear increase 
